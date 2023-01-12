@@ -1,4 +1,3 @@
 (fp_lib_table
-  (lib (name APDS-9008-020)(type KiCad)(uri "C:/Users/Dress/Documents/Libraries for Kicad/APDS-9008-020")(options "")(descr ""))
-  (lib (name AM2520ZGC09)(type KiCad)(uri "C:/Users/Dress/Documents/Libraries for Kicad/AM2520ZGC09/AM2520ZGC09.pretty")(options "")(descr ""))
+  (lib (name "HeartBoard")(type "KiCad")(uri "C:/Users/02dressned42/OneDrive - MSA The Safety Company/Documents/KiCad/HeartBoard")(options "")(descr ""))
 )
